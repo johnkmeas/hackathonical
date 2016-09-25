@@ -1,0 +1,21 @@
+$red: #da0000;
+$drk-red: #941414;
+$grey: #838383;
+
+//brand
+$brand-primary-red: #823230;
+$brand-d-red: #715b56;
+$brand-lt-red: #b96558;
+$brand-green: #6d8b7e;
+$brand-yellow: #EDDF6E;
+$brand-orange: #DA8B46;
+
+@import 'includes/nav';
+@import 'includes/button';
+@import 'includes/typography';
+@import 'includes/media-query';
+@import 'includes/footer';
+
+.container {
+	width: 80%;
+}
